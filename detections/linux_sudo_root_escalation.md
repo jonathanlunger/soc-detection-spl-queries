@@ -17,26 +17,6 @@ Used to identify which user escalated privileges to root prior to the creation o
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 KQL (Microsoft Sentinel – Equivalent Detection Logic)
 LinuxLogs
 | where Message has "sudo" and Message has "root"
