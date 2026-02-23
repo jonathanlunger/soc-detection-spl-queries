@@ -1,4 +1,4 @@
-# Brute Force – WordPress Login Failures
+# Brute Force –  Login Failures
 
 ## SPL Query
 ```spl
